@@ -18,6 +18,9 @@ sudo apt-get install libncurses5-dev libncursesw5-dev
 Install wiringPI
 http://wiringpi.com/download-and-install/
 
+Install scale
+See scale repository
+
 Install xterm
 
 
