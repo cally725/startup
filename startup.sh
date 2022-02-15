@@ -22,8 +22,8 @@ fi
 val=$(gpio read 26)
 
 if [ $val == 0 ]; then
-    cd /home/pi/evadezVous/olympic/
-    ./olympic
+    cd /home/pi/evadezVous/garage/
+    ./garage
 fi
 
 val=$(gpio read 27)
